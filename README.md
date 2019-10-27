@@ -1,6 +1,5 @@
-
- 
- 
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <body>
     <div class="w3-container">
         <br /> <br /> <br /> 
@@ -8,6 +7,7 @@
 </div>
 </body>
 </html>
+
 
 <h2 id="welcome-to-my-profile">Welcome To My Profile</h2>
 
