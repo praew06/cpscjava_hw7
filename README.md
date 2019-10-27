@@ -9,7 +9,7 @@
 </html>
 
 
-<h2 id="welcome-to-my-profile">Welcome To My Profile</h2>
+<center><h2 id="welcome-to-my-profile">Welcome To My Profile</h2></center>
 
 <p>ชื่อ-สกุล : นางสาว พัชริดา เจริญผล </p>
 
