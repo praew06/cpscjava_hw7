@@ -1,18 +1,7 @@
 
-  </head>
+ 
   <body>
-    <div class="wrapper">
-      <header  class="without-description" >
-        <h1>CPSC462_HW7</h1>
-        
-        <p class="view"><a href="https://github.com/praew06/cpscjava_hw7">View the Project on GitHub <small></small></a></p>
-        <ul>
-        
-          <li><a href="https://github.com/praew06/cpscjava_hw7">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-
+  
       <html>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
