@@ -61,7 +61,6 @@
 <a href="https://github.com/praew06/java_pyramid/blob/master/Praew28.php" class="button">pyramid28</a>
 <a href="https://github.com/praew06/java_pyramid/blob/master/Praew29.php" class="button">pyramid29</a>
 <a href="https://github.com/praew06/java_pyramid/blob/master/Praew30.php" class="button">pyramid30</a>
-<a href="https://github.com/suwatjanee005/Java_Pyramid/blob/master/fearn_30.php" class="button">pyramid30</a></p>
 
 <p><a href="https://github.com/praew06/java_pyramid/blob/master/Praew31.php" class="button">pyramid31</a>
 <a href="https://github.com/praew06/java_pyramid/blob/master/Praew32.php" class="button">pyramid32</a>
