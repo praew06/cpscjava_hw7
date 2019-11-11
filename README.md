@@ -81,6 +81,14 @@
 <h3 id="งานมอบหมายที่5">งานมอบหมายที่5</h3>
 <p><a href="https://github.com/praew06/5java/blob/master/work5java.pdf">โปรแกรมรับค่าจากแป้นพิมพ์เก็บลงอาร์เรย์</a></p>
 
+<h3 id="งานมอบหมายที่-9">งานมอบหมายที่ 9</h3>
+<p><a href="https://github.com/praew06/htm">FileHtm</a></p>
+
+<p><a href="https://github.com/praew06/java_">FlieJava</a></p>
+
+<p><a href="https://github.com/praew06/txt">FlieTxt</a></p>
+
+
 <h3 id="midtrem-project"><a href="https://github.com/praew06/midterm_java/blob/master/Midterm_Java.pdf">Midtrem Project</a></h3>
 
 
